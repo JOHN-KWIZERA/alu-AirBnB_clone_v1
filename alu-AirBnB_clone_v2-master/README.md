@@ -142,7 +142,7 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 	
 <h3>Authors Updating the Repository</h3>
-* Larissa Bizimungu
-  * l.bizimungu@alustudent.com
+* John kwizera
+  * j.kwizera@alustudent.com
 * Ryan Apreala
   * r.apreala@alustudent.com
