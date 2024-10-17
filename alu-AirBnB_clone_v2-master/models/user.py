@@ -21,3 +21,4 @@ class User(BaseModel, Base):
         'Review',
         backref='user',
         cascade='all, delete-orphan')
+ 
